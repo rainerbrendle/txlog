@@ -1,5 +1,5 @@
 # txlog
-in memory transaction log (for events and actions)
+In-memory transaction log (for events and actions)
 
 An in-memory structure to manage transactions of operations for a distributed environment.
 
